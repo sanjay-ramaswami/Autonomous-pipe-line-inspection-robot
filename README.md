@@ -126,55 +126,7 @@ The robotic platform uses motorized locomotion to move through the pipeline.
 
 The embedded controller manages the movement of the robot through the motor-driver interface while the inspection system collects information from inside the pipeline.
 
-## 📂 Repository Structure
 
-```text
-AI-Controlled-Pipeline-Inspection-Robot/
-│
-├── README.md
-│
-├── hardware/
-│   ├── components.md
-│   ├── circuit/
-│   └── pcb/
-│
-├── firmware/
-│   ├── main/
-│   └── README.md
-│
-├── software/
-│   ├── control/
-│   ├── inspection/
-│   └── README.md
-│
-├── ai/
-│   ├── models/
-│   ├── dataset/
-│   └── README.md
-│
-├── docs/
-│   ├── project-report.pdf
-│   ├── architecture.png
-│   └── circuit-diagram.png
-│
-├── images/
-│   ├── robot.jpg
-│   ├── prototype.jpg
-│   └── testing.jpg
-│
-└── results/
-    └── test-results.md
-```
-
-## 📸 Prototype
-
-Add photographs of the actual prototype, circuit, testing, and pipeline operation in the `images/` folder.
-
-Example:
-
-```markdown
-![Pipeline Inspection Robot](images/robot.jpg)
-```
 
 ## 📊 Applications
 
